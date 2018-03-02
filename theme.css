@@ -1,0 +1,15 @@
+#addToList{
+  border:solid black 1px;
+  display: inline-block;
+}
+
+.titel{
+  position: relative;
+  display: inline-block;
+  background-color: #3399ff
+}
+.author{
+  position: relative;
+  display: inline-block;
+  background-color: #66ff99
+}
